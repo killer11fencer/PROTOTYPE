@@ -1,5 +1,23 @@
 footer {
-    height: 10em;
+    height: 4em;
     width: 100vw;
-    background-color: aqua;
+    background-color:white;
+    position: absolute;
+    bottom: 0px;
+}
+
+.LogIn {
+    background-color: white;
+    position: relative;
+    top: 9em;
+    left: 20%;
+    height:50vh;
+    width: 50vw;
+    opacity: 1;
+}
+.background {
+    position: fixed;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
 }
