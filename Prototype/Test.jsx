@@ -18,8 +18,11 @@ function combine (a,b) {
     
     }
      
-function double () {
-
+function double (str1) {
+let arr1 = str1.split('')
+let result = arr1.map((let,i)=>{
+if()
+})
 }
 // write a function that removes double letters and arranges how many changes to make a string saleable
 
